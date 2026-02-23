@@ -51,7 +51,7 @@ var APP_DATA = {
     },
     {
       "id": "1-2-c-cha-gisu-ln-tri",
-      "name": "2. Đức Chúa Giê-su Lên Trời",
+      "name": "二、耶稣升天",
       "levels": [
         {
           "tileSize": 256,
@@ -99,14 +99,14 @@ var APP_DATA = {
         {
           "yaw": 0.7809236815983347,
           "pitch": -0.5434597421898903,
-          "title": "Đức Chúa Giê-su Lên Trời",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Lời tựa</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Thưa ngài Thê-ô-phi-lô, trong quyển thứ nhất, tôi đã tường thuật tất cả những việc Đức Giê-su làm và những điều Người dạy, kể từ đầu cho tới ngày Người được rước lên trời. Trước ngày ấy, Người đã dạy bảo các Tông Đồ mà Người đã tuyển chọn nhờ Thánh Thần. Người lại còn dùng nhiều cách để chứng tỏ cho các ông thấy là Người vẫn sống sau khi đã chịu khổ hình: trong bốn mươi ngày, Người đã hiện ra nói chuyện với các ông về Nước Thiên Chúa. Một hôm, đang khi dùng bữa với các Tông Đồ, Đức Giê-su truyền cho các ông không được rời khỏi Giê-ru-sa-lem, nhưng phải ở lại mà chờ đợi điều Chúa Cha đã hứa, “điều mà anh em đã nghe Thầy nói tới, đó là: ông Gio-an thì làm phép rửa bằng nước, còn anh em thì trong ít ngày nữa sẽ chịu phép rửa trong Thánh Thần”.</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Thăng thiên</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Bấy giờ những người đang tụ họp ở đó hỏi Người rằng: “Thưa Thầy, có phải bây giờ là lúc Thầy khôi phục vương quốc Ít-ra-en không?” Người đáp: “Anh em không cần biết thời giờ và kỳ hạn Chúa Cha đã toàn quyền sắp đặt, nhưng anh em sẽ nhận được sức mạnh của Thánh Thần khi Người ngự xuống trên anh em. Bấy giờ anh em sẽ là chứng nhân của Thầy tại Giê-ru-sa-lem, trong khắp các miền Giu-đê, Sa-ma-ri và cho đến tận cùng trái đất.”</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Nói xong, Người được cất lên ngay trước mắt các ông, và có đám mây quyện lấy Người, khiến các ông không còn thấy Người nữa. Và đang lúc các ông còn đăm đăm nhìn lên trời phía Người đi, thì bỗng có hai người đàn ông mặc áo trắng đứng bên cạnh và nói: “Hỡi những người Ga-li-lê, sao còn đứng nhìn trời? Đức Giê-su, Đấng vừa lìa bỏ các ông và được rước lên trời, cũng sẽ ngự đến y như các ông đã thấy Người lên trời.”<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">(Công Vụ Tông Đồ 1:1-11)</div>"
+          "title": "耶稣升天",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">德敖斐罗！我在第一部书中，已论及耶稣所行所教的一切，直到他藉圣神嘱咐了所选的宗徒之后，被接去的那一天为止；他受难以后，用了许多凭据，向他们显明自己还活着，四十天之久显现给他们，讲论天主国的事。耶稣与他们一起进食时，吩咐他们不要离开耶路撒冷，但要等候父的恩许，即你们听我所说过的：「若翰固然以水施了洗，但不多几天以后，你们要因圣神受洗。」</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">他们聚集的时候，就问耶稣说：「主，是此时要给以色列复兴国家吗？」他回答说：「父以自己的权柄所定的时候和日期，不是你们应当知道的；但当圣神降临于你们身上时，你们将充满圣神的德能，要在耶路撒冷及全犹太和撒玛黎雅，并直到地极，为我作证人。」</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">耶稣说完这些话，就在他们观望中，被举上升，有块云彩接了他去，离开他们的眼界。他们向天注视着他上升的时候，忽有两个穿白衣的人站在他们前，向他们说：「加里肋亚人！你们为什么站着望天呢﹖这位离开你们，被接到天上去的耶稣，你们看见他怎样升了天，也要怎样降来。」<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">(宗徒大事录 1:1-11)</div>"
         }
       ]
     },
     {
       "id": "2-3-c-cha-thnh-thn-hin-xung",
-      "name": "3. Đức Chúa Thánh Thần Hiện Xuống",
+      "name": "三、圣神降临",
       "levels": [
         {
           "tileSize": 256,
@@ -154,14 +154,14 @@ var APP_DATA = {
         {
           "yaw": -0.11496180811354506,
           "pitch": -0.37224441421833276,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Ngày lễ Ngũ Tuần</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Khi đến ngày lễ Ngũ Tuần, mọi người đang tề tựu ở một nơi, bỗng từ trời phát ra một tiếng động, như tiếng gió mạnh ùa vào đầy cả căn nhà, nơi họ đang tụ họp. Rồi họ thấy xuất hiện những hình lưỡi giống như lưỡi lửa tản ra đậu xuống từng người một. Và ai nấy đều được tràn đầy ơn Thánh Thần, họ bắt đầu nói các thứ tiếng khác, tùy theo khả năng Thánh Thần ban cho.</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Lúc đó, tại Giê-ru-sa-lem, có những người Do-thái sùng đạo, từ các dân thiên hạ trở về. Nghe tiếng ấy, có nhiều người kéo đến. Họ kinh ngạc vì ai nấy đều nghe các ông nói tiếng bản xứ của mình. Họ sửng sốt, thán phục và nói: “Những người đang nói đó không phải là người Ga-li-lê cả ư? Thế sao mỗi người chúng ta lại nghe họ nói tiếng mẹ đẻ của chúng ta? Chúng ta đây, có người là dân Pác-thi-a, Mê-đi, Ê-lam, Mê-xô-pô-ta-mi-a, Giu-đê, Cáp-pa-đô-ki-a, Pon-tô, và A-xi-a, có người là dân Phy-ghi-a, Pam-phy-li-a, Ai-cập, và những vùng Li-by-a giáp giới Ky-rê-nê; nào là những người từ Rô-ma đến đây; nào là người Do-thái cũng như người đạo theo; nào là người đảo Cơ-rê-ta hay người Ả-rập, vậy mà chúng ta đều nghe họ dùng tiếng nói của chúng ta mà loan báo những kỳ công của Thiên Chúa!” Ai nấy đều sửng sốt và phân vân, họ bảo nhau: “Thế nghĩa là gì?” Nhưng người khác lại chế nhạo: “Mấy ông này say bứ rồi!”<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">(Công Vụ Tông Đồ 2:1-13)</div>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">圣神降临</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">五旬节日一到，众人都聚集一处。忽然，从天上来了一阵响声，好像暴风刮来，充满了他们所在的全座房屋。有些散开好像火的舌头，停留在他们每人头上，众人都充满了圣神，照圣神赐给他们的话，说起外方话来。</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">那时，居住在耶路撒冷的，有从天下各国来的虔诚的犹太人。这声音一响，就聚来了许多人，都仓皇失措，因为人人都听见他们说自己的方言。他们惊讶奇怪地说：「看，这些说话的不都是加里肋亚人吗？怎么我们每人听见他们说我们出生地的方言呢？我们中有帕提雅人、玛待人、厄蓝人和居住在美索不达米亚、犹太及卡帕多细雅、本都并亚细亚、夫黎基雅和旁非里雅、埃及并靠近基勒乃的利比亚一带的人，以及侨居的罗马人、犹太人和归依犹太教的人、克里特人和阿剌伯人，怎么我们都听见他们用我们的话，讲论天主的奇事呢？」众人都惊讶犹豫，彼此说：「这是什么事？」另有些人却讥笑说：「他们喝醉了酒！」<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">(宗徒大事录 2:1-13)</div>"
         }
       ]
     },
     {
       "id": "3-4-c-cha-tri-cho-c-b-ln-tri",
-      "name": "4. Đức Chúa Trời Cho Đức Bà Lên Trời",
+      "name": "四、圣母蒙召升天",
       "levels": [
         {
           "tileSize": 256,
@@ -209,7 +209,7 @@ var APP_DATA = {
         {
           "yaw": 0.2414294338391887,
           "pitch": -0.5338737219185532,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Bài ca “Ngợi Khen” (Magnificat)</span><o:p></o:p></p>",
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">圣母蒙召升天</span><o:p></o:p></p>",
           "text": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Bấy giờ bà Ma-ri-a nói:</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Linh hồn tôi ngợi khen Đức Chúa, thần trí tôi hớn hở vui mừng vì Thiên Chúa, Đấng cứu độ tôi.&nbsp;</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Phận nữ tỳ hèn mọn, Người đoái thương nhìn tới; từ nay, hết mọi đời sẽ khen tôi diễm phúc.&nbsp;</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Đấng Toàn Năng đã làm cho tôi biết bao điều cao cả, danh Người thật chí thánh chí tôn!</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Đời nọ tới đời kia, Chúa hằng thương xót những ai kính sợ Người.</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Chúa giơ tay biểu dương sức mạnh, dẹp tan phường lòng trí kiêu căng.</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Chúa hạ bệ những ai quyền thế, Người nâng cao mọi kẻ khiêm nhường.&nbsp;</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Kẻ đói nghèo, Chúa ban của đầy dư, người giàu có, lại đuổi về tay trắng.</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Chúa độ trì Ít-ra-en, tôi tớ của Người, như đã hứa cùng cha ông chúng ta, vì Người nhớ lại lòng thương xót dành cho tổ phụ Áp-ra-ham và cho con cháu đến muôn đời.”<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">(Luca 1:46-55)</div>"
         }
       ]
