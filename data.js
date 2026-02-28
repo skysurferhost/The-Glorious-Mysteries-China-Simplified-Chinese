@@ -99,7 +99,7 @@ var APP_DATA = {
         {
           "yaw": 0.7809236815983347,
           "pitch": -0.5434597421898903,
-          "title": "耶稣升天",
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">耶稣升天</span><o:p></o:p></p>",
           "text": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">德敖斐罗！我在第一部书中，已论及耶稣所行所教的一切，直到他藉圣神嘱咐了所选的宗徒之后，被接去的那一天为止；他受难以后，用了许多凭据，向他们显明自己还活着，四十天之久显现给他们，讲论天主国的事。耶稣与他们一起进食时，吩咐他们不要离开耶路撒冷，但要等候父的恩许，即你们听我所说过的：「若翰固然以水施了洗，但不多几天以后，你们要因圣神受洗。」</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">他们聚集的时候，就问耶稣说：「主，是此时要给以色列复兴国家吗？」他回答说：「父以自己的权柄所定的时候和日期，不是你们应当知道的；但当圣神降临于你们身上时，你们将充满圣神的德能，要在耶路撒冷及全犹太和撒玛黎雅，并直到地极，为我作证人。」</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">耶稣说完这些话，就在他们观望中，被举上升，有块云彩接了他去，离开他们的眼界。他们向天注视着他上升的时候，忽有两个穿白衣的人站在他们前，向他们说：「加里肋亚人！你们为什么站着望天呢﹖这位离开你们，被接到天上去的耶稣，你们看见他怎样升了天，也要怎样降来。」<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">(宗徒大事录 1:1-11)</div>"
         }
       ]
